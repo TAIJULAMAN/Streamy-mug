@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Link } from "react-scroll";
 import { SiCoffeescript } from "react-icons/si";
 import Button from "../layouts/Button";
@@ -24,7 +24,7 @@ const Navbar = () => {
             <span>
               <SiCoffeescript size={25} />
             </span>
-            <h1 className=" text-xl font-semibold">Steamy Mug</h1>
+            <h1 className=" text-xl font-semibold">BBA CHAWALA</h1>
           </div>
 
           <nav className="hidden md:flex flex-row items-center text-lg font-medium gap-8">
