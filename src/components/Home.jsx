@@ -3,7 +3,7 @@ import Button from "../layouts/Button";
 
 const Home = () => {
   return (
-    <div className=" min-h-screen flex flex-col justify-center lg:flex-row lg:justify-between items-center lg:px-32 px-5 gap-10 bg-gradient-to-r from-[#FFDCAB] to-[#AB6B2E] ">
+    <div className="pt-5 flex flex-col justify-center lg:flex-row lg:justify-between items-center lg:px-32 px-5 gap-10 bg-backgroundColor ">
       <div className=" w-full lg:w-2/4 space-y-4 mt-14 lg:mt-0">
         <h1 className="font-semibold text-5xl text-center lg:text-start leading-tight">
           Start your day with a steaming cup of coffee
